@@ -1,0 +1,22 @@
+{
+  "name": "react_expressjs",
+  "version": "1.0.0",
+  "description": "Playing with ReactJS and ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManhQLe/React_ExpressJS.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Manh Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManhQLe/React_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/ManhQLe/React_ExpressJS#readme"
+}
