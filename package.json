@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/ManhQLe/React_ExpressJS/issues"
   },
-  "homepage": "https://github.com/ManhQLe/React_ExpressJS#readme"
+  "homepage": "https://github.com/ManhQLe/React_ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
